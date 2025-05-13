@@ -1,0 +1,449 @@
+County,City,CompositeKey,Population,Violent Crime - Rate per 100k,Property Crime - Rate per 100k,VCrimeMed,VCrimeMAD,VioFlag (+/-1.5 st deviatiations),PropCrimemed,PropCrimeMAD,PropFlag (+/-1.5 st deviatiations),TotalViolentCrimes,violentcrimecheck,per100k,TotalHomocides,TotalRapes,TotalRobbery,TotalAggravatedAssaults,TotalPropertyCrime,propertycrimecheck,per 100k,TotalBurglary,TotalVehicleTheft,TotalLarcenyTheft
+Alameda  ,Alameda,Alameda  |Alameda,75353,341.0614043,5646.755935,328.2157157,167.2032952,,3765.506043,1794.523784,,257,257,,0,16,123,118,4255,4255,,376,1280,2599
+Alameda  ,Albany,Alameda  |Albany,19097,193.7477091,2843.378541,,,,,,,37,37,,1,0,22,14,543,543,,84,95,364
+Alameda  ,Berkeley,Alameda  |Berkeley,118962,664.9182092,5899.362822,,,🚩Outlier,,,,791,791,,4,102,379,306,7018,7018,,1139,1368,4511
+Alameda  ,Emeryville,Alameda  |Emeryville,12732,1531.573987,17514.92303,,,🚩Outlier,,,🚩Outlier,195,195,,1,6,128,60,2230,2230,,113,456,1661
+Alameda  ,Fremont,Alameda  |Fremont,226208,209.9837318,2792.120526,,,,,,,475,475,,6,22,170,277,6316,6316,,1164,1321,3831
+Alameda  ,Hayward,Alameda  |Hayward,155675,657.1382688,3897.86414,,,,,,,1023,1023,,10,93,294,626,6068,6068,,654,2377,3037
+Alameda  ,Livermore,Alameda  |Livermore,82908,230.3758383,1940.70536,,,,,,,191,191,,0,33,60,98,1609,1609,,183,243,1183
+Alameda  ,Newark,Alameda  |Newark,46929,315.3700271,3633.147947,,,,,,,148,148,,0,10,59,79,1705,1705,,212,411,1082
+Alameda  ,Oakland,Alameda  |Oakland,436504,3548.879277,9861.994392,,,🚩Outlier,,,🚩Outlier,15491,15491,,119,372,3831,11169,43048,43048,,3886,16510,22652
+Alameda,Piedmont,Alameda|Piedmont,10635,282.0874471,4203.102962,,,,,,,30,30,,0,5,8,17,447,447,,46,81,320
+Alameda  ,Pleasanton,Alameda  |Pleasanton,74653,123.2368425,2001.259159,,,,,,,92,92,,3,20,33,36,1494,1494,,206,188,1100
+Alameda,San Leandro,Alameda|San Leandro,85784,666.79101,5913.690199,,,🚩Outlier,,,,572,572,,6,20,373,173,5073,5073,,504,1980,2589
+Alameda  ,Union City,Alameda  |Union City,65414,489.1919161,3172.103831,,,,,,,320,320,,3,13,117,187,2075,2075,,228,550,1297
+Alameda  ,Dublin,Alameda  |Dublin,69128,154.7853258,1793.773869,,,,,,,107,107,,1,6,34,66,1240,1240,,91,117,1032
+Amador  ,Ione,Amador  Ione,5431,128.8897072,515.5588289,331.1258278,78.07136626,🚩Outlier,735.8351729,220.276344,,7,7,,1,2,0,4,28,28,,3,4,21
+Amador  ,Jackson,Amador  Jackson,5132,409.1971941,1519.875292,,,,,,🚩Outlier,21,21,,0,3,1,17,78,78,,11,8,59
+Amador  ,Sutter Creek,Amador  Sutter Creek,2718,331.1258278,735.8351729,,,,,,,9,9,,0,4,0,5,20,20,,0,1,19
+Butte  ,Chico,Butte  Chico,101301,612.0373935,1805.510311,499.1387933,120.2985152,,2010.19772,552.2222867,,620,620,,3,94,75,448,1829,1829,,231,290,1308
+Butte  ,Gridley,Butte  Gridley,7269,371.4403632,2214.885129,,,,,,,27,27,,0,6,3,18,161,161,,28,26,107
+Butte  ,Oroville,Butte  Oroville,19449,1069.463726,4992.544604,,,🚩Outlier,,,🚩Outlier,208,208,,2,32,35,139,971,971,,186,319,466
+Butte  ,Paradise,Butte  Paradise,8285,386.2401931,1110.440555,,,,,,,32,32,,0,2,1,29,92,92,,31,16,45
+Calaveras  ,Angels Camp,Calaveras  Angels Camp,3752,213.2196162,1812.366738,,,,,,,8,8,,0,1,1,6,68,68,,9,6,53
+Colusa  ,Colusa,Colusa  Colusa,6527,566.8760533,1103.110158,497.0751995,69.80085379,,1361.596026,258.4858682,,37,37,,0,2,3,32,72,72,,24,9,39
+Colusa  ,Williams,Colusa  Williams,5617,427.2743457,1620.081894,,,,,,,24,24,,0,0,0,24,91,91,,16,14,61
+Contra Costa  ,Antioch,Contra Costa  Antioch,117096,550.8300881,2931.782469,286.2699679,198.4781893,,2119.968867,1023.599394,,645,645,,11,36,206,392,3433,3433,,602,1222,1609
+Contra Costa  ,Brentwood,Contra Costa  Brentwood,65126,270.2453705,2244.879157,,,,,,,176,176,,1,15,59,101,1462,1462,,196,182,1084
+Contra Costa  ,Clayton,Contra Costa  Clayton,10754,83.68978985,613.7251255,,,,,,,9,9,,0,1,4,4,66,66,,15,3,48
+Contra Costa  ,Concord,Contra Costa  Concord,122315,506.8879532,3147.610677,,,,,,,620,620,,4,49,186,381,3850,3850,,700,787,2363
+Contra Costa  ,El Cerrito,Contra Costa  El Cerrito,25552,485.2849092,3921.415153,,,,,,,124,124,,1,4,76,43,1002,1002,,96,185,721
+Contra Costa  ,Hercules,Contra Costa  Hercules,26582,203.1449853,590.6252351,,,,,,,54,54,,0,6,13,35,157,157,,12,38,107
+Contra Costa  ,Pinole,Contra Costa  Pinole,18481,340.8906444,2332.124885,,,,,,,63,63,,0,3,23,37,431,431,,49,65,317
+Contra Costa  ,Pittsburg,Contra Costa  Pittsburg,75803,560.663826,2119.968867,,,,,,,425,425,,5,34,107,279,1607,1607,,242,586,779
+Contra Costa  ,Pleasant Hill,Contra Costa  Pleasant Hill,33802,307.6741021,5055.913851,,,,,,🚩Outlier,104,104,,1,9,38,56,1709,1709,,239,109,1361
+Contra Costa  ,Richmond,Contra Costa  Richmond,114106,1061.293885,3143.568261,,,🚩Outlier,,,,1211,1211,,8,31,293,879,3587,3587,,372,1239,1976
+Contra Costa  ,San Pablo,Contra Costa  San Pablo,31249,505.6161797,2998.495952,,,,,,,158,158,,1,11,82,64,937,937,,89,431,417
+Contra Costa  ,Walnut Creek,Contra Costa  Walnut Creek,69152,290.6640444,2736.001851,,,,,,,201,201,,1,16,53,131,1892,1892,,275,173,1444
+Contra Costa  ,Martinez,Contra Costa  Martinez,36395,217.0627833,1420.524797,,,,,,,79,79,,0,3,14,62,517,517,,68,102,347
+Contra Costa  ,Lafayette,Contra Costa  Lafayette,25048,79.84669435,1237.623762,,,,,,,20,20,,0,1,9,10,310,310,,22,25,263
+Contra Costa  ,Moraga,Contra Costa  Moraga,16547,120.867831,840.0314256,,,,,,,20,20,,0,2,3,15,139,139,,39,20,80
+Contra Costa  ,Danville,Contra Costa  Danville,42999,79.07160632,704.6675504,,,,,,,34,34,,2,1,10,21,303,303,,31,45,227
+Contra Costa  ,San Ramon,Contra Costa  San Ramon,84929,142.4719472,947.8505575,,,,,,,121,121,,1,8,26,86,805,805,,87,91,627
+Contra Costa  ,Orinda,Contra Costa  Orinda,19364,87.79177856,759.1406734,,,,,,,17,17,,0,2,6,9,147,147,,23,16,108
+Contra Costa  ,Oakley,Contra Costa  Oakley,45761,286.2699679,1239.04635,,,,,,,131,131,,2,8,26,95,567,567,,88,153,326
+Del Norte  ,Crescent City,Del Norte  Crescent City,5611,1497.059348,6362.502228,,,,,,,84,84,,0,3,9,72,357,357,,35,16,306
+El Dorado  ,Placerville,El Dorado  Placerville,10656,750.7507508,1454.57958,702.715382,48.03536873,,1422.294297,32.28528293,,80,80,,0,7,6,67,155,155,,39,14,102
+El Dorado  ,South Lake Tahoe,El Dorado  South Lake Tahoe,21079,654.6800133,1390.009014,,,,,,,138,138,,0,12,10,116,293,293,,45,29,219
+Fresno  ,Clovis,Fresno  Clovis,125826,234.4507494,1778.646703,537.5994013,245.2497153,,1114.855937,390.1239938,,295,295,,2,29,70,194,2238,2238,,276,238,1724
+Fresno  ,Coalinga,Fresno  Coalinga,17369,552.7088491,731.1877483,,,,,,,96,96,,0,7,3,86,127,127,,18,18,91
+Fresno  ,Firebaugh,Fresno  Firebaugh,8547,128.7001287,854.1008541,,,,,,,11,11,,0,1,3,7,73,73,,11,17,45
+Fresno  ,Fowler,Fresno  Fowler,7274,536.1561727,1099.807534,,,,,,,39,39,,0,0,4,35,80,80,,21,14,45
+Fresno  ,Fresno,Fresno  Fresno,545716,726.9348892,3069.17884,,,,,,🚩Outlier,3967,3967,,37,262,909,2759,16749,16749,,2470,3359,10920
+Fresno  ,Huron,Fresno  Huron,6377,1082.013486,344.9898071,,,🚩Outlier,,,,69,69,,0,1,9,59,22,22,,3,6,13
+Fresno  ,Kerman,Fresno  Kerman,17238,423.4830027,1374.869474,,,,,,,73,73,,1,3,3,66,237,237,,26,40,171
+Fresno  ,Kingsburg,Fresno  Kingsburg,13013,169.0617075,1621.455468,,,,,,,22,22,,0,5,3,14,211,211,,55,38,118
+Fresno  ,Mendota,Fresno  Mendota,12530,853.9505188,718.2761373,,,,,,,107,107,,1,3,5,98,90,90,,17,33,40
+Fresno  ,Orange Cove,Fresno  Orange Cove,9497,200.0631778,610.7191745,,,,,,,19,19,,0,1,0,18,58,58,,11,12,35
+Fresno  ,Parlier,Fresno  Parlier,14426,838.763344,1129.904339,,,,,,,121,121,,0,12,17,92,163,163,,27,62,74
+Fresno  ,Reedley,Fresno  Reedley,25958,558.5946529,1051.698898,,,,,,,145,145,,1,9,13,122,273,273,,66,50,157
+Fresno  ,Sanger,Fresno  Sanger,26343,539.0426299,1423.528072,,,,,,,142,142,,1,5,10,126,375,375,,44,64,267
+Fresno  ,Selma,Fresno  Selma,24467,519.0664977,1896.431929,,,,,,🚩Outlier,127,127,,1,2,17,107,464,464,,85,96,283
+Glenn  ,Orland,Glenn  Orland,8132,405.8042302,1328.086572,,,,,,,33,33,,0,5,5,23,108,108,,16,20,72
+Humboldt  ,Arcata,Humboldt  Arcata,19012,578.5819482,1877.761414,302.2974607,131.3572898,🚩Outlier,1662.636034,438.733946,,110,110,,2,9,18,81,357,357,,27,53,277
+Humboldt  ,Eureka,Humboldt  Eureka,25734,971.4774229,3711.043755,,,🚩Outlier,,,🚩Outlier,250,250,,1,35,67,147,955,955,,146,134,675
+Humboldt  ,Ferndale,Humboldt  Ferndale,1389,287.9769618,1223.902088,,,,,,,4,4,,0,1,0,3,17,17,,1,0,16
+Humboldt  ,Fortuna,Humboldt  Fortuna,12285,170.9401709,1188.441188,,,,,,,21,21,,1,2,2,16,146,146,,25,17,104
+Humboldt  ,Rio Dell,Humboldt  Rio Dell,3308,302.2974607,1662.636034,,,,,,,10,10,,0,7,0,3,55,55,,10,7,38
+Imperial  ,Brawley,Imperial  Brawley,27849,161.5856943,1741.534705,162.1045806,54.8421277,,816.2411051,542.9790977,,45,45,,2,8,9,26,485,485,,57,42,386
+Imperial  ,Calexico,Imperial  Calexico,38224,107.2624529,816.2411051,,,,,,,41,41,,0,4,11,26,312,312,,51,146,115
+Imperial  ,El Centro,Imperial  El Centro,43772,335.8311249,1544.366262,,,🚩Outlier,,,,147,147,,1,17,33,96,676,676,,105,80,491
+Imperial  ,Holtville,Imperial  Holtville,5555,234.0234023,738.0738074,,,,,,,13,13,,0,0,0,13,41,41,,8,3,30
+Imperial  ,Imperial,Imperial  Imperial,21591,162.1045806,273.2620073,,,,,,,35,35,,0,3,1,31,59,59,,9,16,34
+Inyo  ,Bishop,Inyo  Bishop,3742,774.9866382,3313.73597,,,,,,,29,29,,0,5,0,24,124,124,,11,9,104
+Kern  ,Bakersfield,Kern  Bakersfield,413381,881.7531527,3328.890297,539.7423382,83.46841496,🚩Outlier,2082.663641,682.8118736,,3645,3645,,29,195,614,2807,13761,13761,,2842,4269,6650
+Kern  ,Delano,Kern  Delano,51500,333.9805825,1625.242718,,,🚩Outlier,,,,172,172,,6,20,32,114,837,837,,100,239,498
+Kern  ,McFarland,Kern  McFarland,14049,562.3176027,1174.460816,,,,,,,79,79,,0,3,12,64,165,165,,28,48,89
+Kern  ,Ridgecrest,Kern  Ridgecrest,28088,562.5178012,993.3067502,,,,,,,158,158,,0,16,14,128,279,279,,88,49,142
+Kern  ,Shafter,Kern  Shafter,21915,314.8528405,2281.542323,,,🚩Outlier,,,,69,69,,0,5,3,61,500,500,,55,141,304
+Kern  ,Taft,Kern  Taft,6961,517.1670737,3232.294211,,,,,,,36,36,,1,3,7,25,225,225,,34,48,143
+Kern  ,Tehachapi,Kern  Tehachapi,10881,477.8972521,2508.960573,,,,,,,52,52,,0,7,14,31,273,273,,30,31,212
+Kern  ,California City,Kern  California City,13802,644.834082,1883.784959,,,,,,,89,89,,1,7,12,69,260,260,,77,71,112
+Kings  ,Corcoran,Kings  Corcoran,22044,594.2660134,1143.168209,434.0181086,37.58816022,🚩Outlier,1156.355034,94.23707494,,131,131,,1,12,5,113,252,252,,48,41,163
+Kings  ,Hanford,Kings  Hanford,59938,393.7401982,1169.54186,,,,,,,236,236,,5,20,19,192,701,701,,91,147,463
+Kings  ,Lemoore,Kings  Lemoore,26809,399.1196986,1331.642359,,,,,,,107,107,,2,32,4,69,357,357,,43,100,214
+Kings  ,Avenal,Kings  Avenal,14075,468.9165187,476.0213144,,,,,,🚩Outlier,66,66,,2,8,2,54,67,67,,14,15,38
+Lake  ,Lakeport,Lake  Lakeport,5135,58.42259007,272.6387537,551.0242918,492.6017018,,1243.655097,971.0163431,,3,3,,0,0,1,2,14,14,,4,1,9
+Lake  ,Clearlake,Lake  Clearlake,16481,1043.625994,2214.67144,,,,,,,172,172,,1,36,14,121,365,365,,78,75,212
+Lassen  ,Susanville,Lassen  Susanville,12689,583.1822839,1158.483726,,,,,,,74,74,,1,9,6,58,147,147,,14,40,93
+Los Angeles  ,Alhambra,Los Angeles  |Alhambra,79776,244.4344164,2509.526675,429.5844974,189.3183723,,2277.264567,616.3534326,,195,195,,4,12,85,94,2002,2002,,240,312,1450
+Los Angeles  ,Arcadia,Los Angeles  |Arcadia,54157,280.6654726,3041.158114,,,,,,,152,152,,0,4,61,87,1647,1647,,376,110,1161
+Los Angeles  ,Artesia,Los Angeles  |Artesia,15597,525.7421299,2199.14086,,,,,,,82,82,,2,4,15,61,343,343,,114,70,159
+Los Angeles  ,Avalon,Los Angeles  |Avalon,3261,613.308801,950.6286415,,,,,,🚩Outlier,20,20,,0,2,1,17,31,31,,4,6,21
+Los Angeles  ,Azusa,Los Angeles  |Azusa,48272,294.1663905,1551.62413,,,,,,,142,142,,5,8,37,92,749,749,,141,145,463
+Los Angeles  ,Baldwin Park,Los Angeles  |Baldwin Park,68806,482.5160596,1744.033951,,,,,,,332,332,,5,20,99,208,1200,1200,,173,346,681
+Los Angeles  ,Bell,Los Angeles  |Bell,31864,696.7110218,1675.872458,,,,,,,222,222,,3,12,64,143,534,534,,59,99,376
+Los Angeles  ,Bellflower,Los Angeles  |Bellflower,75122,601.687921,2177.790794,,,,,,,452,452,,2,34,118,298,1636,1636,,272,685,679
+Los Angeles  ,Bell Gardens,Los Angeles  |Bell Gardens,37467,448.3945872,1470.627486,,,,,,,168,168,,1,8,57,102,551,551,,68,249,234
+Los Angeles  ,La Habra Heights,Los Angeles  |La Habra Heights,5368,55.88673621,968.7034277,,,,,,🚩Outlier,3,3,,0,1,0,2,52,52,,14,4,34
+Los Angeles  ,Westlake Village,Los Angeles  |Westlake Village,7573,237.6865179,1927.901756,,,,,,,18,18,,0,1,5,12,146,146,,30,6,110
+Los Angeles  ,Beverly Hills,Los Angeles  |Beverly Hills,30974,484.2771357,4975.14044,,,,,,🚩Outlier,150,150,,0,10,68,72,1541,1541,,292,118,1131
+Los Angeles  ,Bradbury,Los Angeles  |Bradbury,892,0.0,1457.399103,,,🚩Outlier,,,,0,0,,0,0,0,0,13,13,,11,0,2
+Los Angeles  ,Burbank,Los Angeles  |Burbank,102755,366.892122,3176.487762,,,,,,,377,377,,0,20,110,247,3264,3264,,347,312,2605
+Los Angeles  ,Claremont,Los Angeles  |Claremont,35640,519.0796857,2225.028058,,,,,,,185,185,,0,9,17,159,793,793,,144,89,560
+Los Angeles  ,Commerce,Los Angeles  |Commerce,11672,1387.936943,13802.26182,,,🚩Outlier,,,🚩Outlier,162,162,,4,5,70,83,1611,1611,,281,411,919
+Los Angeles  ,Compton,Los Angeles  |Compton,90986,1183.698591,3415.91014,,,🚩Outlier,,,,1077,1077,,21,53,307,696,3108,3108,,390,1150,1568
+Los Angeles  ,Covina,Los Angeles  |Covina,48728,361.188639,2035.790511,,,,,,,176,176,,1,9,47,119,992,992,,345,136,511
+Los Angeles  ,Cudahy,Los Angeles  |Cudahy,21723,570.8235511,1648.022833,,,,,,,124,124,,5,7,26,86,358,358,,63,117,178
+Los Angeles  ,Culver City,Los Angeles  |Culver City,39041,783.7913988,6685.279578,,,,,,🚩Outlier,306,306,,2,12,130,162,2610,2610,,294,271,2045
+Los Angeles  ,Cerritos,Los Angeles  |Cerritos,46797,309.8489219,4788.768511,,,,,,🚩Outlier,145,145,,1,6,80,58,2241,2241,,353,375,1513
+Los Angeles  ,Agoura Hills,Los Angeles  |Agoura Hills,19474,174.5917634,1335.113485,,,,,,,34,34,,0,3,7,24,260,260,,50,13,197
+Los Angeles  ,West Hollywood,Los Angeles  |West Hollywood,34349,905.4120935,6160.295787,,,🚩Outlier,,,🚩Outlier,311,311,,0,30,130,151,2116,2116,,364,160,1592
+Los Angeles  ,Santa Clarita,Los Angeles  |Santa Clarita,224028,173.6390094,1190.029818,,,,,,,389,389,,5,33,125,226,2666,2666,,429,433,1804
+Los Angeles  ,Diamond Bar,Los Angeles  |Diamond Bar,52041,134.5093292,1925.404969,,,,,,,70,70,,2,9,21,38,1002,1002,,287,105,610
+Los Angeles  ,Downey,Los Angeles  |Downey,108816,436.5166887,2863.549478,,,,,,,475,475,,1,31,167,276,3116,3116,,318,1189,1609
+Los Angeles  ,Duarte,Los Angeles  |Duarte,23131,246.4225498,1409.364057,,,,,,,57,57,,2,3,16,36,326,326,,58,60,208
+Los Angeles  ,El Monte,Los Angeles  |El Monte,103794,420.0628167,1988.554252,,,,,,,436,436,,3,39,169,225,2064,2064,,416,453,1195
+Los Angeles  ,El Segundo,Los Angeles  |El Segundo,16445,449.9847978,6543.022195,,,,,,🚩Outlier,74,74,,0,3,29,42,1076,1076,,268,149,659
+Los Angeles  ,Gardena,Los Angeles  |Gardena,58377,736.5914658,3174.195317,,,,,,,430,430,,4,15,119,292,1853,1853,,241,603,1009
+Los Angeles  ,Glendale,Los Angeles  |Glendale,187050,225.6081262,2219.727346,,,,,,,422,422,,2,28,168,224,4152,4152,,538,491,3123
+Los Angeles  ,Glendora,Los Angeles  |Glendora,49934,240.3172187,2098.770377,,,,,,,120,120,,0,15,36,69,1048,1048,,189,86,773
+Los Angeles  ,Hawaiian Gardens,Los Angeles  |Hawaiian Gardens,13396,522.544043,2022.991938,,,,,,,70,70,,0,2,14,54,271,271,,89,67,115
+Los Angeles  ,Hawthorne,Los Angeles  |Hawthorne,83364,657.3580922,2304.351998,,,,,,,548,548,,7,40,180,321,1921,1921,,251,702,968
+Los Angeles  ,Hermosa Beach,Los Angeles  |Hermosa Beach,18641,284.3195108,2880.746741,,,,,,,53,53,,0,5,14,34,537,537,,123,36,378
+Los Angeles  ,Calabasas,Los Angeles  |Calabasas,22227,179.9613083,1430.692401,,,,,,,40,40,,0,4,9,27,318,318,,91,13,214
+Los Angeles  ,Malibu,Los Angeles  |Malibu,10277,593.5584314,4115.987156,,,,,,🚩Outlier,61,61,,2,10,13,36,423,423,,70,36,317
+Los Angeles  ,Hidden Hills,Los Angeles  |Hidden Hills,1685,59.34718101,237.388724,,,,,,🚩Outlier,1,1,,0,0,0,1,4,4,,2,0,2
+Los Angeles  ,Huntington Park,Los Angeles  |Huntington Park,51942,797.0428555,4202.764622,,,,,,🚩Outlier,414,414,,2,27,227,158,2183,2183,,330,793,1060
+Los Angeles  ,Industry,Los Angeles  |Industry,257,44357.97665,543968.8716,,,🚩Outlier,,,🚩Outlier,114,114,,2,2,56,54,1398,1398,,308,232,858
+Los Angeles  ,Inglewood,Los Angeles  |Inglewood,102865,769.941185,3777.766976,,,,,,🚩Outlier,792,792,,15,36,332,409,3886,3886,,380,1132,2374
+Los Angeles  ,Irwindale,Los Angeles  |Irwindale,1426,1963.534362,16129.03226,,,🚩Outlier,,,🚩Outlier,28,28,,0,0,7,21,230,230,,94,43,93
+Los Angeles  ,Lakewood,Los Angeles  |Lakewood,78135,350.6751136,2210.277085,,,,,,,274,274,,1,14,96,163,1727,1727,,262,443,1022
+Los Angeles  ,La Mirada,Los Angeles  |La Mirada,45505,224.1511922,1938.248544,,,,,,,102,102,,2,3,38,59,882,882,,125,172,585
+Los Angeles  ,La Puente,Los Angeles  |La Puente,36516,358.7468507,1341.877533,,,,,,,131,131,,0,9,35,87,490,490,,110,145,235
+Los Angeles  ,La Verne,Los Angeles  |La Verne,29898,214.0611412,2568.733695,,,,,,,64,64,,0,10,18,36,768,768,,129,58,581
+Los Angeles  ,Lawndale,Los Angeles  |Lawndale,30155,620.1293318,2119.051567,,,,,,,187,187,,1,6,46,134,639,639,,86,167,386
+Los Angeles  ,Lomita,Los Angeles  |Lomita,19782,414.5182489,1678.293398,,,,,,,82,82,,0,6,26,50,332,332,,70,86,176
+Los Angeles  ,Long Beach,Los Angeles  |Long Beach,449468,618.9539634,2957.718903,,,,,,,2782,2782,,27,168,817,1770,13294,13294,,2268,3766,7260
+Los Angeles  ,Los Angeles,Los Angeles  |Los Angeles,3820914,812.5542737,2820.712531,,,🚩Outlier,,,,31047,31047,,324,1945,8711,20067,107777,107777,,15385,25594,66798
+Los Angeles  ,Lynwood,Los Angeles  |Lynwood,63234,748.0153082,2783.312775,,,,,,,473,473,,2,24,164,283,1760,1760,,212,849,699
+Los Angeles  ,Manhattan Beach,Los Angeles  |Manhattan Beach,33369,251.7306482,2769.03713,,,,,,,84,84,,0,8,36,40,924,924,,114,75,735
+Los Angeles  ,Maywood,Los Angeles  |Maywood,23824,520.483546,1523.673606,,,,,,,124,124,,0,8,40,76,363,363,,62,129,172
+Los Angeles  ,Monrovia,Los Angeles  |Monrovia,36768,217.5805048,2262.83725,,,,,,,80,80,,0,8,20,52,832,832,,100,118,614
+Los Angeles  ,Montebello,Los Angeles  |Montebello,60015,434.8912772,2709.322669,,,,,,,261,261,,3,13,74,171,1626,1626,,247,494,885
+Los Angeles  ,Monterey Park,Los Angeles  |Monterey Park,57877,330.010194,2289.337733,,,,,,,191,191,,12,5,51,123,1325,1325,,282,249,794
+Los Angeles  ,Norwalk,Los Angeles  |Norwalk,98078,405.7994657,2037.154102,,,,,,,398,398,,7,24,126,241,1998,1998,,283,585,1130
+Los Angeles  ,Palmdale,Los Angeles  |Palmdale,161404,505.5636787,1648.038462,,,,,,,816,816,,9,41,206,560,2660,2660,,405,625,1630
+Los Angeles  ,Paramount,Los Angeles  |Paramount,51072,724.4674185,2768.640351,,,,,,,370,370,,1,14,122,233,1414,1414,,226,621,567
+Los Angeles  ,Pasadena,Los Angeles  |Pasadena,133560,522.6115603,2567.385445,,,,,,,698,698,,6,43,169,480,3429,3429,,550,304,2575
+Los Angeles  ,Pico Rivera,Los Angeles  |Pico Rivera,59189,503.4719289,2488.638092,,,,,,,298,298,,5,18,84,191,1473,1473,,234,567,672
+Los Angeles  ,Pomona,Los Angeles  |Pomona,145502,668.7193303,2906.489258,,,,,,,973,973,,15,61,276,621,4229,4229,,721,1080,2428
+Los Angeles  ,Redondo Beach,Los Angeles  |Redondo Beach,67749,309.9676748,2457.60085,,,,,,,210,210,,2,16,82,110,1665,1665,,315,193,1157
+Los Angeles  ,Rolling Hills,Los Angeles  |Rolling Hills,1644,60.82725061,486.6180049,,,,,,🚩Outlier,1,1,,0,1,0,0,8,8,,6,0,2
+Los Angeles  ,Rosemead,Los Angeles  |Rosemead,49305,452.2867863,2529.155258,,,,,,,223,223,,4,7,84,128,1247,1247,,270,244,733
+Los Angeles  ,San Dimas,Los Angeles  |San Dimas,33105,323.214016,2395.408549,,,,,,,107,107,,1,13,25,68,793,793,,132,91,570
+Los Angeles  ,San Fernando,Los Angeles  |San Fernando,23364,380.9279233,2144.324602,,,,,,,89,89,,1,5,37,46,501,501,,58,138,305
+Los Angeles  ,San Gabriel,Los Angeles  |San Gabriel,37732,185.5189229,2128.167073,,,,,,,70,70,,0,8,25,37,803,803,,150,79,574
+Los Angeles  ,San Marino,Los Angeles  |San Marino,11977,50.09601737,1411.037822,,,🚩Outlier,,,,6,6,,0,1,3,2,169,169,,58,11,100
+Los Angeles  ,Santa Fe Springs,Los Angeles  |Santa Fe Springs,20174,679.0919005,5982.948349,,,,,,🚩Outlier,137,137,,9,5,43,80,1207,1207,,239,300,668
+Los Angeles  ,Santa Monica,Los Angeles  |Santa Monica,89922,860.7459798,4689.619893,,,🚩Outlier,,,🚩Outlier,774,774,,1,50,247,476,4217,4217,,652,582,2983
+Los Angeles  ,Sierra Madre,Los Angeles  |Sierra Madre,10713,224.0268832,709.4184635,,,,,,🚩Outlier,24,24,,0,1,2,21,76,76,,27,10,39
+Los Angeles  ,Signal Hill,Los Angeles  |Signal Hill,11249,675.6156103,5333.80745,,,,,,🚩Outlier,76,76,,0,4,22,50,600,600,,61,176,363
+Los Angeles  ,South El Monte,Los Angeles  |South El Monte,19032,609.4997898,3867.17108,,,,,,🚩Outlier,116,116,,1,2,42,71,736,736,,258,128,350
+Los Angeles  ,South Gate,Los Angeles  |South Gate,90070,538.4700788,3502.831131,,,,,,,485,485,,8,16,212,249,3155,3155,,250,1031,1874
+Los Angeles  ,South Pasadena,Los Angeles  |South Pasadena,25623,148.3042579,2770.947976,,,,,,,38,38,,0,1,15,22,710,710,,118,52,540
+Los Angeles  ,Temple City,Los Angeles  |Temple City,34854,215.1833362,1159.120904,,,,,,,75,75,,0,3,22,50,404,404,,152,51,201
+Los Angeles  ,Torrance,Los Angeles  |Torrance,139224,263.6039763,2615.928288,,,,,,,367,367,,2,28,149,188,3642,3642,,558,638,2446
+Los Angeles  ,Vernon,Los Angeles  |Vernon,209,21052.63158,299043.0622,,,🚩Outlier,,,🚩Outlier,44,44,,0,1,16,27,625,625,,109,134,382
+Los Angeles  ,Walnut,Los Angeles  |Walnut,27104,158.64817,1582.792208,,,,,,,43,43,,0,3,14,26,429,429,,141,39,249
+Los Angeles  ,West Covina,Los Angeles  |West Covina,105617,338.0137667,2294.138254,,,,,,,357,357,,1,25,128,203,2423,2423,,345,482,1596
+Los Angeles  ,Whittier,Los Angeles  |Whittier,84143,424.2777177,2265.1914,,,,,,,357,357,,5,15,95,242,1906,1906,,296,483,1127
+Los Angeles  ,Carson,Los Angeles  |Carson,91139,439.9872722,2735.382218,,,,,,,401,401,,5,25,102,269,2493,2493,,358,788,1347
+Los Angeles  ,Rancho Palos Verdes,Los Angeles  |Rancho Palos Verdes,39980,117.5587794,842.9214607,,,,,,🚩Outlier,47,47,,2,4,10,31,337,337,,92,24,221
+Los Angeles  ,La Canada-Flintridge,Los Angeles  |La Canada-Flintridge,19538,158.6651653,1903.981984,,,,,,,31,31,,0,1,9,21,372,372,,95,15,262
+Los Angeles  ,Lancaster,Los Angeles  |Lancaster,166236,862.027479,1779.999519,,,🚩Outlier,,,,1433,1433,,32,75,318,1008,2959,2959,,680,1118,1161
+Madera  ,Chowchilla,Madera  Chowchilla,19328,507.0364238,1102.028146,2289.307897,1782.271473,,4753.286115,3651.257969,,98,98,,2,11,7,78,213,213,,33,45,135
+Madera  ,Madera,Madera  Madera,9947,4071.579371,8404.544084,,,,,,,405,405,,4,46,50,305,836,836,,66,136,634
+Marin  ,Belvedere,Marin  Belvedere,2050,97.56097561,780.4878049,115.3526321,52.6338796,,1086.463118,334.4737935,,2,2,,0,0,0,2,16,16,,2,2,12
+Marin  ,Fairfax,Marin  Fairfax,7417,161.7904813,862.8825671,,,,,,,12,12,,0,2,1,9,64,64,,9,6,49
+Marin  ,Mill Valley,Marin  Mill Valley,13792,50.75406032,804.8143852,,,,,,,7,7,,0,2,3,2,111,111,,14,17,80
+Marin  ,Novato,Marin  Novato,51722,317.0797726,1678.202699,,,🚩Outlier,,,,164,164,,1,15,22,126,868,868,,71,164,633
+Marin  ,Ross,Marin  Ross,2290,131.0043668,1310.043668,,,,,,,3,3,,0,0,0,3,30,30,,4,10,16
+Marin  ,San Rafael,Marin  San Rafael,59555,515.4898833,2767.189992,,,🚩Outlier,,,🚩Outlier,307,307,,0,43,79,185,1648,1648,,153,438,1057
+Marin  ,Sausalito,Marin  Sausalito,7021,99.70089731,1823.102122,,,,,,🚩Outlier,7,7,,0,0,2,5,128,128,,27,14,87
+Marin  ,Tiburon,Marin  Tiburon,8846,56.52272213,723.4908433,,,,,,,5,5,,0,0,1,4,64,64,,18,3,43
+Mendocino  ,Fort Bragg,Mendocino  Fort Bragg,6919,693.7418702,2717.155658,693.7418702,114.7774833,,1493.280239,283.6380642,🚩Outlier,48,48,,0,4,11,33,188,188,,27,19,142
+Mendocino  ,Ukiah,Mendocino  Ukiah,16072,597.3120956,1493.280239,,,,,,,96,96,,0,11,24,61,240,240,,44,70,126
+Mendocino  ,Willits,Mendocino  Willits,4843,867.2310551,330.3737353,,,,,,🚩Outlier,42,42,,0,0,0,42,16,16,,0,16,0
+Merced  ,Atwater,Merced  Atwater,32052,614.6262324,2446.025209,587.6214554,86.16282476,,1510.208229,291.69121,🚩Outlier,197,197,,3,11,24,159,784,784,,99,102,583
+Merced  ,Dos Palos,Merced  Dos Palos,5708,560.6166783,1436.580238,,,,,,,32,32,,0,8,2,22,82,82,,14,32,36
+Merced  ,Gustine,Merced  Gustine,6099,623.0529595,1016.560092,,,,,,,38,38,,0,2,1,35,62,62,,11,13,38
+Merced  ,Livingston,Merced  Livingston,14643,450.72731,1420.473947,,,,,,,66,66,,0,8,10,48,208,208,,26,43,139
+Merced  ,Los Banos,Merced  Los Banos,48553,208.0201017,1583.83622,,,🚩Outlier,,,,101,101,,1,23,34,43,769,769,,79,128,562
+Merced  ,Merced,Merced  Merced,93692,830.3803953,2678.990736,,,🚩Outlier,,,🚩Outlier,778,778,,8,75,178,517,2510,2510,,392,532,1586
+Modoc  ,Alturas,Modoc  Alturas,2657,489.2736169,865.6379375,,,,,,,13,13,,0,2,0,11,23,23,,5,3,15
+Mono  ,Mammoth Lakes,Mono  Mammoth Lakes,7187,403.5063309,1168.776958,,,,,,,29,29,,0,5,2,22,84,84,,5,2,77
+Monterey  ,Carmel,Monterey  Carmel,3104,128.8659794,1836.340206,388.4417432,109.6281321,🚩Outlier,1165.122001,464.01099,,4,4,,0,1,0,3,57,57,,15,1,41
+Monterey  ,Del Rey Oaks,Monterey  Del Rey Oaks,1550,387.0967742,2903.225806,,,,,,🚩Outlier,6,6,,0,2,0,4,45,45,,6,1,38
+Monterey  ,Gonzales,Monterey  Gonzales,8327,228.1734118,636.4837276,,,,,,,19,19,,1,2,5,11,53,53,,13,5,35
+Monterey  ,Greenfield,Monterey  Greenfield,20634,741.4946205,925.6566831,,,🚩Outlier,,,,153,153,,1,13,14,125,191,191,,31,38,122
+Monterey  ,King City,Monterey  King City,13917,330.5310052,1041.891212,,,,,,,46,46,,0,7,5,34,145,145,,27,30,88
+Monterey  ,Monterey,Monterey  Monterey,29116,460.2280533,1844.346751,,,,,,,134,134,,0,21,31,82,537,537,,75,42,420
+Monterey  ,Pacific Grove,Monterey  Pacific Grove,14757,155.8582368,765.7382937,,,🚩Outlier,,,,23,23,,0,3,2,18,113,113,,13,6,94
+Monterey  ,Salinas,Monterey  Salinas,159506,499.0407884,1288.352789,,,,,,,796,796,,11,67,234,484,2055,2055,,238,511,1306
+Monterey  ,Sand City,Monterey  Sand City,328,4573.170732,65243.90244,,,🚩Outlier,,,🚩Outlier,15,15,,0,0,4,11,214,214,,8,6,200
+Monterey  ,Seaside,Monterey  Seaside,31317,418.303158,801.4816234,,,,,,,131,131,,2,8,14,107,251,251,,31,38,182
+Monterey  ,Soledad,Monterey  Soledad,23947,279.7845242,517.8101641,,,,,,,67,67,,0,7,5,55,124,124,,15,19,90
+Monterey  ,Marina,Monterey  Marina,22833,389.7867122,1537.248719,,,,,,,89,89,,0,11,13,65,351,351,,49,23,279
+Napa  ,Calistoga,Napa  Calistoga,5058,316.3305654,988.533017,299.8079355,75.71469905,,988.533017,519.8756587,,16,16,,0,3,1,12,50,50,,4,9,37
+Napa  ,Napa,Napa  Napa,77492,375.5226346,1765.343519,,,,,,,291,291,,0,42,35,214,1368,1368,,135,146,1087
+Napa  ,St. Helena,Napa  St. Helena,5272,189.6813354,853.5660091,,,,,,,10,10,,0,1,0,9,45,45,,5,8,32
+Napa  ,American Canyon,Napa  American Canyon,21347,299.8079355,1508.408676,,,,,,,64,64,,0,4,11,49,322,322,,21,56,245
+Napa  ,Yountville,Napa  Yountville,3356,89.39213349,327.7711561,,,🚩Outlier,,,,3,3,,0,1,0,2,11,11,,2,1,8
+Nevada  ,Grass Valley,Nevada  Grass Valley,14074,916.5837715,2493.960495,916.5837715,262.0762781,,1333.746898,829.0224426,,129,129,,0,11,17,101,351,351,,52,73,226
+Nevada  ,Nevada City,Nevada  Nevada City,3224,1178.66005,1333.746898,,,,,,,38,38,,0,2,0,36,43,43,,11,9,23
+Nevada  ,Truckee,Nevada  Truckee,17039,633.8400141,504.7244557,,,,,,,108,108,,0,4,5,99,86,86,,23,11,52
+Orange  ,Anaheim,Orange  Anaheim,340512,663.4127432,2474.508975,218.6176576,102.3381095,🚩Outlier,1811.18301,482.0235324,,2259,2259,,8,132,349,1770,8426,8426,,1518,1610,5298
+Orange  ,Brea,Orange  Brea,48479,220.7141236,3085.872233,,,,,,🚩Outlier,107,107,,1,11,44,51,1496,1496,,174,99,1223
+Orange  ,Buena Park,Orange  Buena Park,81958,283.0718173,2841.699407,,,,,,🚩Outlier,232,232,,1,13,64,154,2329,2329,,227,392,1710
+Orange  ,Costa Mesa,Orange  Costa Mesa,108354,382.0809569,2244.494896,,,,,,,414,414,,2,38,79,295,2432,2432,,287,190,1955
+Orange  ,Cypress,Orange  Cypress,48782,245.9923742,1719.896683,,,,,,,120,120,,0,5,33,82,839,839,,255,104,480
+Orange  ,La Palma,Orange  La Palma,15029,106.4608424,2169.139663,,,,,,,16,16,,0,1,4,11,326,326,,39,58,229
+Orange  ,Fountain Valley,Orange  Fountain Valley,55468,137.0159371,2127.352708,,,,,,,76,76,,2,7,24,43,1180,1180,,242,114,824
+Orange  ,Fullerton,Orange  Fullerton,139250,379.1741472,2173.070018,,,,,,,528,528,,0,70,110,348,3026,3026,,486,487,2053
+Orange  ,Garden Grove,Orange  Garden Grove,168234,180.7006907,1427.773221,,,,,,,304,304,,2,25,88,189,2402,2402,,474,384,1544
+Orange  ,Huntington Beach,Orange  Huntington Beach,192129,216.5211915,2034.570523,,,,,,,416,416,,4,55,92,265,3909,3909,,469,332,3108
+Orange  ,Laguna Beach,Orange  Laguna Beach,22332,510.4782375,1553.824109,,,🚩Outlier,,,,114,114,,1,10,15,88,347,347,,61,43,243
+Orange  ,La Habra,Orange  La Habra,60991,318.0797167,2070.797331,,,,,,,194,194,,1,14,36,143,1263,1263,,200,148,915
+Orange  ,Los Alamitos,Orange  Los Alamitos,11901,369.7168305,2344.340812,,,,,,,44,44,,0,3,6,35,279,279,,121,53,105
+Orange  ,Newport Beach,Orange  Newport Beach,82637,209.3493229,2025.726975,,,,,,,173,173,,1,27,40,105,1674,1674,,310,133,1231
+Orange  ,Orange,Orange  Orange,138337,213.9702321,1769.591649,,,,,,,296,296,,2,14,84,196,2448,2448,,933,281,1234
+Orange  ,Placentia,Orange  Placentia,52192,266.3243409,1852.774372,,,,,,,139,139,,1,5,22,111,967,967,,204,143,620
+Orange  ,San Clemente,Orange  San Clemente,62313,149.2465457,1433.087799,,,,,,,93,93,,0,4,18,71,893,893,,103,147,643
+Orange  ,San Juan Capistrano,Orange  San Juan Capistrano,34754,224.4345975,1139.437187,,,,,,,78,78,,2,7,6,63,396,396,,66,70,260
+Orange  ,Santa Ana,Orange  Santa Ana,310539,550.977494,1975.275247,,,🚩Outlier,,,,1711,1711,,6,167,384,1154,6134,6134,,1118,1262,3754
+Orange  ,Seal Beach,Orange  Seal Beach,24352,394.218134,2702.036794,,,,,,,96,96,,1,7,13,75,658,658,,107,47,504
+Orange  ,Stanton,Orange  Stanton,38815,456.0092748,1996.650779,,,🚩Outlier,,,,177,177,,3,10,49,115,775,775,,119,127,529
+Orange  ,Tustin,Orange  Tustin,77704,227.7875013,2246.988572,,,,,,,177,177,,1,8,63,105,1746,1746,,186,208,1352
+Orange  ,Villa Park,Orange  Villa Park,5664,35.31073446,741.5254237,,,,,,🚩Outlier,2,2,,0,0,1,1,42,42,,14,10,18
+Orange  ,Westminster,Orange  Westminster,88729,430.5244058,2765.724848,,,🚩Outlier,,,,382,382,,3,16,92,271,2454,2454,,434,281,1739
+Orange  ,Yorba Linda,Orange  Yorba Linda,66147,46.86531513,1135.350054,,,,,,,31,31,,0,2,8,21,751,751,,139,64,548
+Orange  ,Irvine,Orange  Irvine,314621,87.08891015,1553.615302,,,,,,,274,274,,2,64,77,131,4888,4888,,808,273,3807
+Orange  ,Mission Viejo,Orange  Mission Viejo,90624,141.2429379,1257.944915,,,,,,,128,128,,1,0,36,91,1140,1140,,114,133,893
+Orange  ,Dana Point,Orange  Dana Point,32567,122.8237173,961.0955876,,,,,,,40,40,,1,1,5,33,313,313,,39,51,223
+Orange  ,Laguna Niguel,Orange  Laguna Niguel,62899,104.9301261,993.6564969,,,,,,,66,66,,0,1,25,40,625,625,,82,81,462
+Orange  ,Laguna Hills,Orange  Laguna Hills,30243,271.1371226,1282.941507,,,,,,,82,82,,0,5,16,61,388,388,,103,44,241
+Orange  ,Lake Forest,Orange  Lake Forest,85840,131.640261,976.2348555,,,,,,,113,113,,3,2,33,75,838,838,,120,128,590
+Orange  ,Laguna Woods,Orange  Laguna Woods,16998,52.94740558,541.2401459,,,,,,🚩Outlier,9,9,,1,0,3,5,92,92,,14,8,70
+Orange  ,Rancho Santa Margarita,Orange  Rancho Santa Margarita,46182,47.63760773,433.0691611,,,,,,🚩Outlier,22,22,,0,0,4,18,200,200,,34,9,157
+Orange  ,Aliso Viejo,Orange  Aliso Viejo,50263,113.4034976,716.2326164,,,,,,🚩Outlier,57,57,,0,0,13,44,360,360,,39,54,267
+Placer  ,Auburn,Placer  Auburn,13658,380.7292429,966.4665398,192.8162506,54.85066502,🚩Outlier,1014.728261,189.5315896,,52,52,,0,8,6,38,132,132,,33,17,82
+Placer  ,Lincoln,Placer  Lincoln,54538,141.1859621,683.9268033,,,,,,,77,77,,0,33,9,35,373,373,,52,34,287
+Placer  ,Rocklin,Placer  Rocklin,73472,134.7452091,1062.989983,,,,,,,99,99,,1,9,12,77,781,781,,88,61,632
+Placer  ,Roseville,Placer  Roseville,159135,244.4465391,1428.347001,,,,,,🚩Outlier,389,389,,3,56,108,222,2273,2273,,342,159,1772
+Riverside  ,Banning,Riverside  Banning,31680,492.4242424,1672.979798,288.5271949,116.6469783,,2046.011261,531.8785896,,156,156,,3,16,14,123,530,530,,136,130,264
+Riverside  ,Beaumont,Riverside  Beaumont,58463,323.2813916,1110.103826,,,,,,,189,189,,2,14,20,153,649,649,,93,75,481
+Riverside  ,Blythe,Riverside  Blythe,18045,703.7960654,1230.257689,,,🚩Outlier,,,,127,127,,3,9,9,106,222,222,,26,49,147
+Riverside  ,Coachella,Riverside  Coachella,43590,309.7040606,1679.28424,,,,,,,135,135,,2,17,34,82,732,732,,102,219,411
+Riverside  ,Desert Hot Springs,Riverside  Desert Hot Springs,33438,496.4411747,1420.539506,,,,,,,166,166,,3,16,21,126,475,475,,110,183,182
+Riverside  ,Hemet,Riverside  Hemet,92368,463.3639356,1934.652694,,,,,,,428,428,,7,32,107,282,1787,1787,,391,438,958
+Riverside  ,Indio,Riverside  Indio,93057,404.0534296,1783.852907,,,,,,,376,376,,6,19,62,289,1660,1660,,210,337,1113
+Riverside  ,Norco,Riverside  Norco,25398,161.4300339,2657.689582,,,,,,,41,41,,2,4,16,19,675,675,,112,67,496
+Riverside  ,Palm Springs,Riverside  Palm Springs,45218,581.6267858,3684.37348,,,🚩Outlier,,,🚩Outlier,263,263,,0,30,56,177,1666,1666,,278,230,1158
+Riverside  ,Perris,Riverside  Perris,80603,349.8629083,2516.035383,,,,,,,282,282,,4,19,89,170,2028,2028,,231,466,1331
+Riverside  ,Riverside,Riverside  Riverside,318858,552.2834616,3421.899403,,,🚩Outlier,,,🚩Outlier,1761,1761,,9,168,453,1131,10911,10911,,1833,1885,7193
+Riverside  ,San Jacinto,Riverside  San Jacinto,55440,414.8629149,2204.184704,,,,,,,230,230,,1,14,67,148,1222,1222,,233,184,805
+Riverside  ,Corona,Riverside  Corona,160238,228.4102398,2154.295485,,,,,,,366,366,,2,43,87,234,3452,3452,,568,485,2399
+Riverside  ,Indian Wells,Riverside  Indian Wells,4862,164.541341,2324.146442,,,,,,,8,8,,0,1,3,4,113,113,,24,4,85
+Riverside  ,Rancho Mirage,Riverside  Rancho Mirage,17795,275.3582467,3568.418095,,,,,,🚩Outlier,49,49,,1,7,8,33,635,635,,136,73,426
+Riverside  ,Palm Desert,Riverside  Palm Desert,51951,277.1842698,3614.944852,,,,,,🚩Outlier,144,144,,1,10,34,99,1878,1878,,298,164,1416
+Riverside  ,Cathedral City,Riverside  Cathedral City,52356,299.8701199,1363.740545,,,,,,,157,157,,2,11,23,121,714,714,,152,225,337
+Riverside  ,Lake Elsinore,Riverside  Lake Elsinore,73028,230.0487484,2145.752314,,,,,,,168,168,,0,11,43,114,1567,1567,,255,257,1055
+Riverside  ,La Quinta,Riverside  La Quinta,39081,181.6739592,2415.496021,,,,,,,71,71,,1,3,19,48,944,944,,136,69,739
+Riverside  ,Moreno Valley,Riverside  Moreno Valley,212392,319.2210629,1953.463407,,,,,,,678,678,,8,21,209,440,4149,4149,,623,815,2711
+Riverside  ,Temecula,Riverside  Temecula,110682,170.7594731,2138.559115,,,,,,,189,189,,0,17,53,119,2367,2367,,319,272,1776
+Riverside  ,Calimesa,Riverside  Calimesa,11165,89.56560681,2274.966413,,,,,,,10,10,,0,0,3,7,254,254,,46,31,177
+Riverside  ,Canyon Lake,Riverside  Canyon Lake,11096,99.13482336,757.0295602,,,,,,🚩Outlier,11,11,,0,0,0,11,84,84,,7,25,52
+Riverside  ,Murrieta,Riverside  Murrieta,111878,169.8278482,1254.938415,,,,,,,190,190,,0,29,32,129,1404,1404,,252,158,994
+Riverside  ,Menifee,Riverside  Menifee,113433,192.1839324,1161.037793,,,,,,,218,218,,2,31,26,159,1317,1317,,181,252,884
+Riverside  ,Wildomar,Riverside  Wildomar,37087,199.5308329,1361.663116,,,,,,,74,74,,1,7,9,57,505,505,,86,93,326
+Riverside  ,Eastvale,Riverside  Eastvale,70510,133.3144235,1805.417671,,,,,,,94,94,,0,9,29,56,1273,1273,,142,200,931
+Riverside  ,Jurupa Valley,Riverside  Jurupa Valley,107321,328.9197827,2639.744318,,,,,,,353,353,,3,15,79,256,2833,2833,,322,776,1735
+Sacramento  ,Folsom,Sacramento  Folsom,84782,240.6171121,1566.37022,446.7041947,206.0870825,,2048.956968,482.5867483,,204,204,,3,40,40,121,1328,1328,,120,59,1149
+Sacramento  ,Galt,Sacramento  Galt,25767,465.7119572,1661.039314,,,,,,,120,120,,0,9,16,95,428,428,,56,52,320
+Sacramento  ,Isleton,Sacramento  Isleton,777,772.2007722,6048.906049,,,,,,🚩Outlier,6,6,,0,0,0,6,47,47,,21,1,25
+Sacramento  ,Sacramento,Sacramento  Sacramento,526384,804.9256816,2907.573179,,,,,,,4237,4237,,41,170,1192,2834,15305,15305,,2752,3703,8850
+Sacramento  ,Elk Grove,Sacramento  Elk Grove,178444,186.0527673,1199.816189,,,,,,,332,332,,1,27,90,214,2141,2141,,252,222,1667
+Sacramento  ,Rancho Cordova,Sacramento  Rancho Cordova,82605,446.7041947,2177.834272,,,,,,,369,369,,5,19,95,250,1799,1799,,392,385,1022
+Sacramento  ,Citrus Heights,Sacramento  Citrus Heights,86239,418.6041118,2048.956968,,,,,,,361,361,,5,42,91,223,1767,1767,,233,298,1236
+San Benito  ,Hollister,San Benito  Hollister,44658,326.9291056,837.4759282,,,,,,,146,146,,2,13,18,113,374,374,,23,56,295
+San Bernardino  ,Barstow,San Bernardino  Barstow,24964,861.2401859,2643.807082,314.243067,121.0803161,🚩Outlier,1105.185872,536.1088151,🚩Outlier,215,215,,2,12,47,154,660,660,,206,212,242
+San Bernardino  ,Chino,San Bernardino  Chino,93114,339.3689456,2747.170136,,,,,,🚩Outlier,316,316,,3,38,70,205,2558,2558,,299,347,1912
+San Bernardino  ,Colton,San Bernardino  Colton,53357,404.820361,3326.6488,,,,,,🚩Outlier,216,216,,3,6,70,137,1775,1775,,212,407,1156
+San Bernardino  ,Fontana,San Bernardino  Fontana,215465,279.859838,1357.993178,,,,,,,603,603,,8,53,163,379,2926,2926,,434,647,1845
+San Bernardino  ,Montclair,San Bernardino  Montclair,37545,772.4064456,4293.514449,,,🚩Outlier,,,🚩Outlier,290,290,,5,10,79,196,1612,1612,,343,404,865
+San Bernardino  ,Needles,San Bernardino  Needles,4824,435.3233831,1098.6733,,,,,,,21,21,,0,0,5,16,53,53,,17,22,14
+San Bernardino  ,Ontario,San Bernardino  Ontario,182457,337.0657196,2281.633481,,,,,,🚩Outlier,615,615,,3,88,157,367,4163,4163,,657,1214,2292
+San Bernardino  ,Redlands,San Bernardino  Redlands,72556,366.6133745,2876.398919,,,,,,🚩Outlier,266,266,,0,50,72,144,2087,2087,,247,277,1563
+San Bernardino  ,Rialto,San Bernardino  Rialto,103391,556.1412502,2769.099825,,,,,,🚩Outlier,575,575,,2,53,147,373,2863,2863,,370,468,2025
+San Bernardino  ,San Bernardino,San Bernardino  San Bernardino,223728,1050.829579,3161.875134,,,🚩Outlier,,,🚩Outlier,2351,2351,,36,116,667,1532,7074,7074,,1224,1725,4125
+San Bernardino  ,Upland,San Bernardino  Upland,78699,359.5979619,2049.581316,,,,,,,283,283,,2,21,81,179,1613,1613,,332,280,1001
+San Bernardino  ,Victorville,San Bernardino  Victorville,138869,429.1814588,1056.391275,,,,,,,596,596,,2,37,86,471,1467,1467,,248,455,764
+San Bernardino  ,Adelanto,San Bernardino  Adelanto,38187,314.243067,481.8393694,,,,,,,120,120,,0,7,14,99,184,184,,29,76,79
+San Bernardino  ,Rancho Cucamonga,San Bernardino  Rancho Cucamonga,174405,123.8496603,1135.288553,,,,,,,216,216,,2,20,76,118,1980,1980,,268,238,1474
+San Bernardino  ,Grand Terrace,San Bernardino  Grand Terrace,12939,208.6714584,1105.185872,,,,,,,27,27,,0,2,4,21,143,143,,27,31,85
+San Bernardino  ,Loma Linda,San Bernardino  Loma Linda,25111,103.5402812,1035.402812,,,,,,,26,26,,0,2,1,23,260,260,,65,43,152
+San Bernardino  ,Highland,San Bernardino  Highland,56202,224.1913099,795.3453614,,,,,,,126,126,,2,10,24,90,447,447,,81,112,254
+San Bernardino  ,Twentynine Palms,San Bernardino  Twentynine Palms,28734,93.96533723,299.2970001,,,,,,,27,27,,0,1,2,24,86,86,,30,16,40
+San Bernardino  ,Hesperia,San Bernardino  Hesperia,100633,184.8300259,851.609313,,,,,,,186,186,,1,14,37,134,857,857,,158,308,391
+San Bernardino  ,Apple Valley,San Bernardino  Apple Valley,75036,141.2655259,643.6910283,,,,,,,106,106,,2,10,21,73,483,483,,96,119,268
+San Bernardino  ,Yucaipa,San Bernardino  Yucaipa,53947,103.805587,569.0770571,,,,,,,56,56,,0,3,7,46,307,307,,52,53,202
+San Bernardino  ,Chino Hills,San Bernardino  Chino Hills,77212,77.70812827,633.3212454,,,,,,,60,60,,1,3,14,42,489,489,,124,50,315
+San Bernardino  ,Yucca Valley,San Bernardino  Yucca Valley,21664,286.1890694,660.0812408,,,,,,,62,62,,0,3,4,55,143,143,,46,20,77
+San Diego  ,Carlsbad,San Diego  Carlsbad,113495,199.1277149,1629.146658,337.161298,120.0968074,,1520.084452,296.8985127,,226,226,,0,17,47,162,1849,1849,,271,152,1426
+San Diego  ,Chula Vista,San Diego  Chula Vista,274333,354.3139178,1306.076921,,,,,,,972,972,,5,42,195,730,3583,3583,,366,1148,2069
+San Diego  ,Coronado,San Diego  Coronado,18437,320.0086782,2055.648967,,,,,,,59,59,,1,8,7,43,379,379,,44,80,255
+San Diego  ,Del Mar,San Diego  Del Mar,3867,129.2991983,1887.768296,,,,,,,5,5,,0,0,0,5,73,73,,21,12,40
+San Diego  ,El Cajon,San Diego  El Cajon,102991,470.9149343,1525.376004,,,,,,,485,485,,0,37,103,345,1571,1571,,214,296,1061
+San Diego  ,Escondido,San Diego  Escondido,148122,386.1681587,1609.484074,,,,,,,572,572,,2,33,131,406,2384,2384,,351,363,1670
+San Diego  ,Imperial Beach,San Diego  Imperial Beach,25458,361.3795271,927.0170477,,,,,,,92,92,,0,4,16,72,236,236,,18,105,113
+San Diego  ,La Mesa,San Diego  La Mesa,60537,374.9772866,1645.274791,,,,,,,227,227,,2,15,58,152,996,996,,174,195,627
+San Diego  ,National City,San Diego  National City,55236,662.6113404,2112.752553,,,🚩Outlier,,,,366,366,,1,20,115,230,1167,1167,,140,350,677
+San Diego  ,Oceanside,San Diego  Oceanside,170020,434.0665804,1789.789437,,,,,,,738,738,,3,53,110,572,3043,3043,,485,389,2169
+San Diego  ,San Diego,San Diego  San Diego,1388320,414.8899389,1798.576697,,,,,,,5760,5760,,40,297,1204,4219,24970,24970,,2777,6774,15419
+San Diego  ,San Marcos,San Diego  San Marcos,94188,215.526394,800.5266064,,,,,,🚩Outlier,203,203,,3,8,46,146,754,754,,105,136,513
+San Diego  ,Vista,San Diego  Vista,274333,132.3209384,426.8534956,,,,,,🚩Outlier,363,363,,5,13,59,286,1171,1171,,216,269,686
+San Diego  ,Lemon Grove,San Diego  Lemon Grove,27569,580.3620008,1508.941202,,,🚩Outlier,,,,160,160,,2,2,30,126,416,416,,56,119,241
+San Diego  ,Santee,San Diego  Santee,59478,287.501261,943.2058913,,,,,,,171,171,,0,2,40,129,561,561,,68,83,410
+San Diego  ,Poway,San Diego  Poway,48051,166.4897713,824.1243679,,,,,,🚩Outlier,80,80,,0,2,10,68,396,396,,80,45,271
+San Diego  ,Encinitas,San Diego  Encinitas,60841,218.6025871,1204.779672,,,,,,,133,133,,0,3,28,102,733,733,,103,85,545
+San Diego  ,Solana Beach,San Diego  Solana Beach,12675,165.6804734,1514.792899,,,,,,,21,21,,0,1,3,17,192,192,,61,12,119
+San Francisco  ,San Francisco,San Francisco  San Francisco,808988,687.1548156,5527.89411,,,,,,,5559,5559,,51,292,2738,2478,44720,44720,,5643,6704,32373
+San Joaquin  ,Escalon,San Joaquin  Escalon,7355,462.2705642,1223.657376,363.734914,91.35362719,,1631.440731,244.2097047,,34,34,,0,0,3,31,90,90,,10,11,69
+San Joaquin  ,Manteca,San Joaquin  Manteca,91059,388.7589365,1712.076785,,,,,,,354,354,,4,33,78,239,1559,1559,,241,320,998
+San Joaquin  ,Ripon,San Joaquin  Ripon,16068,130.6945482,1145.133184,,,🚩Outlier,,,,21,21,,0,3,3,15,184,184,,20,10,154
+San Joaquin  ,Stockton,San Joaquin  Stockton,319543,1163.223729,3104.120572,,,🚩Outlier,,,🚩Outlier,3717,3717,,48,128,1100,2441,9919,9919,,2014,2321,5584
+San Joaquin  ,Tracy,San Joaquin  Tracy,98010,279.5633099,1667.176819,,,,,,,274,274,,9,20,76,169,1634,1634,,164,336,1134
+San Joaquin  ,Lathrop,San Joaquin  Lathrop,39857,338.7108914,1595.704644,,,,,,,135,135,,0,17,17,101,636,636,,72,88,476
+San Luis Obispo  ,Arroyo Grande,San Luis Obispo  Arroyo Grande,18243,454.9690292,1184.015787,398.2784095,117.5204696,,1562.126405,541.9243845,,83,83,,0,5,5,73,216,216,,43,16,157
+San Luis Obispo  ,Grover Beach,San Luis Obispo  Grover Beach,12547,199.2508169,1562.126405,,,,,,,25,25,,0,6,2,17,196,196,,32,19,145
+San Luis Obispo  ,Morro Bay,San Luis Obispo  Morro Bay,10589,302.2003966,963.2637643,,,,,,,32,32,,0,2,2,28,102,102,,18,5,79
+San Luis Obispo  ,Paso Robles,San Luis Obispo  Paso Robles,31134,398.2784095,1580.265947,,,,,,,124,124,,1,21,20,82,492,492,,54,46,392
+San Luis Obispo  ,Pismo Beach,San Luis Obispo  Pismo Beach,7948,742.3251132,2956.718671,,,🚩Outlier,,,🚩Outlier,59,59,,1,8,5,45,235,235,,19,11,205
+San Luis Obispo  ,San Luis Obispo,San Luis Obispo  San Luis Obispo,49244,515.7988791,2574.932987,,,,,,,254,254,,0,32,44,178,1268,1268,,181,90,997
+San Luis Obispo  ,Atascadero,San Luis Obispo  Atascadero,29700,218.8552189,1020.20202,,,,,,,65,65,,0,7,19,39,303,303,,34,23,246
+San Mateo  ,Atherton,San Mateo  Atherton,6823,131.9067859,1289.75524,305.8772121,107.895866,,2051.927311,294.2750552,🚩Outlier,9,9,,0,0,6,3,88,88,,22,0,66
+San Mateo  ,Belmont,San Mateo  Belmont,26622,206.5960484,1258.357749,,,,,,🚩Outlier,55,55,,0,9,10,36,335,335,,47,34,254
+San Mateo  ,Brisbane,San Mateo  Brisbane,4577,305.8772121,2097.44374,,,,,,,14,14,,0,1,3,10,96,96,,14,14,68
+San Mateo  ,Burlingame,San Mateo  Burlingame,29910,213.9752591,2678.034102,,,,,,🚩Outlier,64,64,,0,11,9,44,801,801,,86,89,626
+San Mateo  ,Colma,San Mateo  Colma,1407,1705.75693,70788.91258,,,🚩Outlier,,,🚩Outlier,24,24,,0,0,13,11,996,996,,52,34,910
+San Mateo  ,Daly City,San Mateo  Daly City,99833,346.5787866,2067.452646,,,,,,,346,346,,2,22,120,202,2064,2064,,191,371,1502
+San Mateo  ,Hillsborough,San Mateo  Hillsborough,10883,156.2069282,744.2800698,,,,,,🚩Outlier,17,17,,0,2,2,13,81,81,,50,2,29
+San Mateo  ,Menlo Park,San Mateo  Menlo Park,31690,249.2899968,1757.652256,,,,,,,79,79,,0,5,14,60,557,557,,106,37,414
+San Mateo  ,Pacifica,San Mateo  Pacifica,36426,181.1892604,1249.10778,,,,,,🚩Outlier,66,66,,1,9,16,40,455,455,,45,42,368
+San Mateo  ,Redwood City,San Mateo  Redwood City,80996,476.566744,2144.550348,,,,,,,386,386,,1,54,134,197,1737,1737,,239,296,1202
+San Mateo  ,San Bruno,San Mateo  San Bruno,41327,413.7730781,2051.927311,,,,,,,171,171,,0,5,36,130,848,848,,68,112,668
+San Mateo  ,San Mateo,San Mateo  San Mateo,101327,338.5079989,1873.143387,,,,,,,343,343,,4,31,102,206,1898,1898,,225,271,1402
+San Mateo  ,South San Francisco,San Mateo  South San Francisco,63123,365.9521886,2197.29734,,,,,,,231,231,,1,10,51,169,1387,1387,,140,223,1024
+San Mateo  ,Foster City,San Mateo  Foster City,32180,46.61280298,1037.911746,,,🚩Outlier,,,🚩Outlier,15,15,,0,2,6,7,334,334,,35,31,268
+San Mateo  ,East Palo Alto,San Mateo  East Palo Alto,28216,581.2305075,2069.747661,,,🚩Outlier,,,,164,164,,0,17,52,95,584,584,,30,151,403
+Santa Barbara  ,Guadalupe,Santa Barbara  Guadalupe,8622,139.1788448,835.0730689,167.5708574,95.63469029,,1469.318107,318.735682,,12,12,,0,7,0,5,72,72,,13,24,35
+Santa Barbara  ,Lompoc,Santa Barbara  Lompoc,43045,490.1846904,1784.179347,,,🚩Outlier,,,,211,211,,4,11,32,164,768,768,,75,313,380
+Santa Barbara  ,Santa Barbara,Santa Barbara  Santa Barbara,86499,603.4751847,1791.92823,,,🚩Outlier,,,,522,522,,0,85,77,360,1550,1550,,203,184,1163
+Santa Barbara  ,Santa Maria,Santa Barbara  Santa Maria,109987,615.5272896,2360.278942,,,🚩Outlier,,,🚩Outlier,677,677,,6,63,175,433,2596,2596,,437,734,1425
+Santa Barbara  ,Carpinteria,Santa Barbara  Carpinteria,12828,163.7043966,1496.725912,,,,,,,21,21,,0,2,1,18,192,192,,19,18,155
+Santa Barbara  ,Solvang,Santa Barbara  Solvang,5970,83.7520938,854.2713568,,,,,,,5,5,,0,0,1,4,51,51,,6,3,42
+Santa Barbara  ,Buelton,Santa Barbara  Buelton,4990,60.12024048,1422.845691,,,,,,,3,3,,0,0,1,2,71,71,,9,13,49
+Santa Barbara  ,Goleta,Santa Barbara  Goleta,32665,171.4373182,1441.910302,,,,,,,56,56,,1,6,12,37,471,471,,64,46,361
+Santa Clara  ,Campbell,Santa Clara  Campbell,41700,364.5083933,2738.609113,248.0801753,132.4398168,,1921.469793,884.4574553,,152,152,,1,19,39,93,1142,1142,,201,188,753
+Santa Clara  ,Cupertino,Santa Clara  Cupertino,57285,102.9938029,1207.995112,,,,,,,59,59,,1,7,27,24,692,692,,119,48,525
+Santa Clara  ,Gilroy,Santa Clara  Gilroy,58250,530.472103,2897.854077,,,🚩Outlier,,,,309,309,,4,42,83,180,1688,1688,,197,357,1134
+Santa Clara  ,Los Altos,Santa Clara  Los Altos,29990,90.03001,1037.012337,,,,,,,27,27,,0,4,8,15,311,311,,83,15,213
+Santa Clara  ,Los Altos Hills,Santa Clara  Los Altos Hills,8189,85.48052265,940.2857492,,,,,,,7,7,,0,2,4,1,77,77,,61,1,15
+Santa Clara  ,Los Gatos,Santa Clara  Los Gatos,32216,139.6821455,1688.601937,,,,,,,45,45,,2,8,6,29,544,544,,67,40,437
+Santa Clara  ,Milpitas,Santa Clara  Milpitas,77321,318.1541884,3353.552075,,,,,,,246,246,,1,31,103,111,2593,2593,,277,294,2022
+Santa Clara  ,Monte Sereno,Santa Clara  Monte Sereno,3459,115.6403585,954.0329575,,,,,,,4,4,,0,0,0,4,33,33,,17,3,13
+Santa Clara  ,Morgan Hill,Santa Clara  Morgan Hill,44478,249.561581,1103.916543,,,,,,,111,111,,0,16,20,75,491,491,,73,88,330
+Santa Clara  ,Mountain View,Santa Clara  Mountain View,81785,249.4344929,2795.133582,,,,,,,204,204,,1,13,58,132,2286,2286,,350,181,1755
+Santa Clara  ,Palo Alto,Santa Clara  Palo Alto,28216,478.4519422,6450.240998,,,,,,🚩Outlier,135,135,,0,20,55,60,1820,1820,,177,116,1527
+Santa Clara  ,San Jose,Santa Clara  San Jose,969655,501.3123224,1986.170339,,,,,,,4861,4861,,29,568,1048,3216,19259,19259,,2959,5964,10336
+Santa Clara  ,Santa Clara,Santa Clara  Santa Clara,131062,201.4313836,2823.854359,,,,,,,264,264,,0,21,88,155,3701,3701,,501,597,2603
+Santa Clara  ,Saratoga,Santa Clara  Saratoga,29607,60.79643328,611.3419124,,,,,,,18,18,,0,6,7,5,181,181,,70,9,102
+Santa Clara  ,Sunnyvale,Santa Clara  Sunnyvale,151967,248.0801753,1921.469793,,,,,,,377,377,,1,48,96,232,2920,2920,,493,408,2019
+Santa Cruz  ,Capitola,Santa Cruz  Capitola,9572,271.6255746,2078.980359,398.2619193,195.1033959,,1670.547643,424.9603371,,26,26,,0,0,9,17,199,199,,11,15,173
+Santa Cruz  ,Santa Cruz,Santa Cruz  Santa Cruz,61501,669.9078064,2445.488691,,,,,,,412,412,,1,21,120,270,1504,1504,,118,110,1276
+Santa Cruz  ,Watsonville,Santa Cruz  Watsonville,50867,524.8982641,1262.114927,,,,,,,267,267,,5,16,43,203,642,642,,106,107,429
+Santa Cruz  ,Scotts Valley,Santa Cruz  Scotts Valley,11879,134.6914723,1229.059685,,,,,,,16,16,,0,3,0,13,146,146,,20,8,118
+Shasta  ,Anderson,Shasta  Anderson,11210,597.6806423,2765.388046,607.8118181,10.13117583,,2018.970404,746.417642,,67,67,,0,20,7,40,310,310,,50,26,234
+Shasta  ,Redding,Shasta  Redding,92727,617.9429939,1272.552762,,,,,,,573,573,,1,59,46,467,1180,1180,,314,237,629
+Siskiyou  ,Dorris,Siskiyou  Dorris,832,721.1538462,480.7692308,501.6436337,157.3257401,,507.7642945,127.9720825,,6,6,,0,0,0,6,4,4,,0,0,4
+Siskiyou  ,Dunsmuir,Siskiyou  Dunsmuir,1642,243.6053593,243.6053593,,,,,,🚩Outlier,4,4,,0,0,0,4,4,4,,2,0,2
+Siskiyou  ,Etna,Siskiyou  Etna,653,612.5574273,459.4180704,,,,,,,4,4,,0,0,0,4,3,3,,0,2,1
+Siskiyou  ,Fort Jones,Siskiyou  Fort Jones,673,594.3536404,594.3536404,,,,,,,4,4,,0,0,0,4,4,4,,1,0,3
+Siskiyou  ,Montague,Siskiyou  Montague,1182,338.4094755,338.4094755,,,,,,,4,4,,0,1,0,3,4,4,,1,1,2
+Siskiyou  ,Mount Shasta,Siskiyou  Mount Shasta,3179,408.9336269,534.7593583,,,,,,,13,13,,0,1,0,12,17,17,,1,7,9
+Siskiyou  ,Weed,Siskiyou  Weed,2574,660.4506605,1282.051282,,,,,,🚩Outlier,17,17,,0,4,0,13,33,33,,4,9,20
+Siskiyou  ,Yreka,Siskiyou  Yreka,7808,345.7991803,1127.04918,,,,,,🚩Outlier,27,27,,1,1,4,21,88,88,,10,14,64
+Solano  ,Benicia,Solano  Benicia,26429,105.9442279,1157.819062,349.1797203,90.23311506,🚩Outlier,1624.743416,466.9243534,,28,28,,0,3,6,19,306,306,,49,51,206
+Solano  ,Dixon,Solano  Dixon,19309,258.9466052,1512.248174,,,,,,,50,50,,0,9,10,31,292,292,,33,37,222
+Solano  ,Fairfield,Solano  Fairfield,120768,566.3751987,2177.7292,,,🚩Outlier,,,,684,684,,7,63,163,451,2630,2630,,370,445,1815
+Solano  ,Rio Vista,Solano  Rio Vista,10145,335.1404633,749.1375062,,,,,,,34,34,,0,5,1,28,76,76,,7,11,58
+Solano  ,Suisun,Solano  Suisun,28743,393.1391991,1624.743416,,,,,,,113,113,,1,17,32,63,467,467,,65,77,325
+Solano  ,Vacaville,Solano  Vacaville,102526,349.1797203,2065.817451,,,,,,,358,358,,2,46,71,239,2118,2118,,181,230,1707
+Solano  ,Vallejo,Solano  Vallejo,122807,809.4001156,4153.672022,,,🚩Outlier,,,🚩Outlier,994,994,,20,56,336,582,5101,5101,,808,1105,3188
+Sonoma  ,Cloverdale,Sonoma  Cloverdale,8825,260.6232295,793.2011331,277.2108844,81.95226551,,1359.35397,238.9220465,🚩Outlier,23,23,,0,2,1,20,70,70,,9,6,55
+Sonoma  ,Cotati,Sonoma  Cotati,7430,201.884253,1359.35397,,,,,,,15,15,,1,2,2,10,101,101,,14,15,72
+Sonoma  ,Healdsburg,Sonoma  Healdsburg,11137,359.1631499,1598.276017,,,,,,,40,40,,0,1,1,38,178,178,,11,12,155
+Sonoma  ,Rohnert Park,Sonoma  Rohnert Park,44546,381.6279801,1461.410677,,,,,,,170,170,,0,28,25,117,651,651,,77,75,499
+Sonoma  ,Santa Rosa,Sonoma  Santa Rosa,175845,332.6793483,1477.437516,,,,,,,585,585,,10,115,113,347,2598,2598,,456,366,1776
+Sonoma  ,Sebastopol,Sonoma  Sebastopol,7380,365.8536585,1680.216802,,,,,,,27,27,,0,2,4,21,124,124,,14,11,99
+Sonoma  ,Sonoma,Sonoma  Sonoma,10619,150.6733214,1007.627837,,,,,,,16,16,,0,3,3,10,107,107,,12,10,85
+Sonoma  ,Petaluma,Sonoma  Petaluma,58800,277.2108844,1221.088435,,,,,,,163,163,,1,28,30,104,718,718,,72,66,580
+Sonoma  ,Windsor,Sonoma  Windsor,25828,178.1012854,716.2769088,,,,,,🚩Outlier,46,46,,0,14,12,20,185,185,,26,11,148
+Stanislaus  ,Ceres,Stanislaus  Ceres,48397,419.4474864,2456.763849,303.1047759,131.4861982,,1553.482317,663.2109453,,203,203,,1,39,48,115,1189,1189,,130,228,831
+Stanislaus  ,Modesto,Stanislaus  Modesto,218915,642.7152091,2217.298952,,,🚩Outlier,,,,1407,1407,,9,148,239,1011,4854,4854,,575,705,3574
+Stanislaus  ,Newman,Stanislaus  Newman,12207,303.1047759,434.1771115,,,,,,,37,37,,0,5,4,28,53,53,,6,16,31
+Stanislaus  ,Oakdale,Stanislaus  Oakdale,23045,360.1648948,1553.482317,,,,,,,83,83,,0,22,11,50,358,358,,65,41,252
+Stanislaus  ,Patterson,Stanislaus  Patterson,25063,263.3363923,1189.003711,,,,,,,66,66,,0,4,10,52,298,298,,61,51,186
+Stanislaus  ,Riverbank,Stanislaus  Riverbank,25001,131.9947202,1751.929923,,,,,,,33,33,,0,1,11,21,438,438,,40,28,370
+Stanislaus  ,Turlock,Stanislaus  Turlock,72100,443.8280166,2192.787795,,,,,,,320,320,,4,24,76,216,1581,1581,,193,260,1128
+Stanislaus  ,Waterford,Stanislaus  Waterford,9323,171.6185777,890.2713719,,,,,,,16,16,,0,0,2,14,83,83,,11,23,49
+Stanislaus  ,Hughson,Stanislaus  Hughson,7683,39.04724717,546.6614604,,,🚩Outlier,,,,3,3,,0,0,0,3,42,42,,9,6,27
+Sutter  ,Yuba City,Sutter  Yuba City,68666,438.3537704,1982.058078,,,,,,,301,301,,1,35,73,192,1361,1361,,173,245,943
+Tehama  ,Corning,Tehama  Corning,8069,532.9037055,1685.462883,870.0735832,337.1698776,,3770.643743,2085.18086,,43,43,,0,1,6,36,136,136,,32,35,69
+Tehama  ,Red Bluff,Tehama  Red Bluff,14413,1207.243461,5855.824603,,,,,,,174,174,,0,23,35,116,844,844,,86,86,672
+Tulare  ,Dinuba,Tulare  Dinuba,25863,618.6443955,2184.588021,491.6738531,79.53973053,,2085.347507,169.4089546,,160,160,,5,21,11,123,565,565,,59,69,437
+Tulare  ,Exeter,Tulare  Exeter,10206,382.1281599,2322.163433,,,,,,,39,39,,1,5,4,29,237,237,,43,42,152
+Tulare  ,Farmersville,Tulare  Farmersville,10243,449.0871815,1278.922191,,,,,,🚩Outlier,46,46,,6,2,6,32,131,131,,27,19,85
+Tulare  ,Lindsay,Tulare  Lindsay,12496,528.1690141,2112.676056,,,,,,,66,66,,0,6,14,46,264,264,,41,78,145
+Tulare  ,Porterville,Tulare  Porterville,62876,442.1400852,2058.018958,,,,,,,278,278,,3,24,69,182,1294,1294,,151,341,802
+Tulare  ,Tulare,Tulare  Tulare,71092,635.7958701,1983.345524,,,,,,,452,452,,3,50,60,339,1410,1410,,213,426,771
+Tulare  ,Visalia,Tulare  Visalia,144998,455.1786921,2411.067739,,,,,,,660,660,,14,94,125,427,3496,3496,,457,658,2381
+Tulare  ,Woodlake,Tulare  Woodlake,7846,777.4662248,1070.609228,,,🚩Outlier,,,🚩Outlier,61,61,,0,4,1,56,84,84,,15,15,54
+Tuolumne  ,Sonora,Tuolumne  Sonora,4917,874.5169819,2847.264592,,,,,,,43,43,,0,6,0,37,140,140,,11,13,116
+Ventura  ,Camarillo,Ventura  Camarillo,69514,81.99787093,1283.194752,141.788147,64.2137958,,1034.809567,305.384901,,57,57,,0,7,11,39,892,892,,67,39,786
+Ventura  ,Fillmore,Ventura  Fillmore,17190,162.8853985,477.0215241,,,,,,,28,28,,0,2,6,20,82,82,,6,14,62
+Ventura  ,Ojai,Ventura  Ojai,7466,120.5464774,884.0075007,,,,,,,9,9,,0,2,0,7,66,66,,12,4,50
+Ventura  ,Oxnard,Ventura  Oxnard,198488,611.1200677,1755.773649,,,🚩Outlier,,,🚩Outlier,1213,1213,,7,104,259,843,3485,3485,,442,663,2380
+Ventura  ,Port Hueneme,Ventura  Port Hueneme,21217,254.5128906,1626.054579,,,,,,,54,54,,1,7,13,33,345,345,,33,37,275
+Ventura  ,Santa Paula,Ventura  Santa Paula,31792,377.4534474,836.6884751,,,🚩Outlier,,,,120,120,,1,3,14,102,266,266,,32,48,186
+Ventura  ,Thousand Oaks,Ventura  Thousand Oaks,123463,108.5345407,1112.884022,,,,,,,134,134,,5,6,28,95,1374,1374,,167,63,1144
+Ventura  ,Ventura,Ventura  Ventura,109058,435.548057,2130.976178,,,🚩Outlier,,,🚩Outlier,475,475,,6,31,79,359,2324,2324,,285,178,1861
+Ventura  ,Simi Valley,Ventura  Simi Valley,125113,120.6908954,956.7351115,,,,,,,151,151,,0,23,28,100,1197,1197,,177,99,921
+Ventura  ,Moorpark,Ventura  Moorpark,35543,73.15083139,672.4249501,,,,,,,26,26,,1,8,4,13,239,239,,37,20,182
+Yolo  ,Davis,Yolo  Davis,65832,205.0674444,2802.588407,209.9797306,68.45458649,,1644.367115,734.319627,,135,135,,2,19,35,79,1845,1845,,188,161,1496
+Yolo  ,Winters,Yolo  Winters,7694,77.98284377,623.8627502,,,,,,,6,6,,0,3,0,3,48,48,,6,8,34
+Yolo  ,Woodland,Yolo  Woodland,61123,392.6508843,2092.502004,,,🚩Outlier,,,,240,240,,2,20,29,189,1279,1279,,119,269,891
+Yolo  ,West Sacramento,Yolo  West Sacramento,55842,214.8920168,1196.232227,,,,,,,120,120,,0,16,30,74,668,668,,151,86,431
+Yuba  ,Marysville,Yuba  Marysville,12674,678.5545211,2027.773394,351.7088866,326.8456345,,1299.814096,727.9592979,,86,86,,5,7,10,64,257,257,,48,110,99
+Yuba  ,Wheatland,Yuba  Wheatland,4022,24.86325211,571.8547986,,,,,,,1,1,,0,0,0,1,23,23,,1,6,16
