@@ -8,7 +8,7 @@ def load_data():
     crime_df = pd.read_csv("CrimeCounties.csv")
     demo_df = pd.read_csv("CountyDemographics.csv", skiprows=1)
     demo_df.columns = demo_df.columns.str.strip()  # Remove extra spaces
-    demo_df = demo_df.rename(columns={demo_df.columns[0]: "County"})
+    demo_df.columns = ["County" if i == 0 else name for i, name in enumerate(demo_df.columns)]
     pol_df = pd.read_csv("CountyPolitics.csv")
     city_df = pd.read_csv("CityCrimeFinal.csv")
     citypol_df = pd.read_csv("CityPolitics.csv")
