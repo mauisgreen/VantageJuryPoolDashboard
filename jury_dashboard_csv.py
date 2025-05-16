@@ -6,6 +6,7 @@ import altair as alt
 def load_data():
     crime_df = pd.read_csv("CrimeCounties.csv")
     demo_df = pd.read_csv("CountyDemographics.csv", skiprows=1)
+st.write("Available demographic columns:", list(demo_df.columns))
     demo_df.columns = demo_df.columns.str.strip()  # remove leading/trailing spaces
     demo_df = demo_df.rename(columns={demo_df.columns[0]: "County"})
     pol_df = pd.read_csv("CountyPolitics.csv")
