@@ -2,21 +2,23 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
+# Load split CSV files
 @st.cache_data
 def load_data():
     crime_df = pd.read_csv("CrimeCounties.csv")
     demo_df = pd.read_csv("CountyDemographics.csv", skiprows=1)
-st.write("Available demographic columns:", list(demo_df.columns))
-    demo_df.columns = demo_df.columns.str.strip()  # remove leading/trailing spaces
+    demo_df.columns = demo_df.columns.str.strip()  # Remove extra spaces
     demo_df = demo_df.rename(columns={demo_df.columns[0]: "County"})
     pol_df = pd.read_csv("CountyPolitics.csv")
     city_df = pd.read_csv("CityCrimeFinal.csv")
     citypol_df = pd.read_csv("CityPolitics.csv")
     return crime_df, demo_df, pol_df, city_df, citypol_df
 
-col2.metric("Median Earnings (25+)", f"${int(demo_row['Median annual earnings, 25+'].values[0]):,}")
-
+# Load data
 crime_df, demo_df, pol_df, city_df, citypol_df = load_data()
+
+# Optional: Show column names for debugging
+# st.write("Demographic columns:", list(demo_df.columns))
 
 # Sidebar: select county
 county_list = sorted(set(demo_df['County'].dropna().unique()))
@@ -30,7 +32,7 @@ demo_row = demo_df[demo_df['County'] == selected_county]
 if not demo_row.empty:
     col1, col2, col3 = st.columns(3)
     col1.metric("Population", f"{int(demo_row['Population'].values[0]):,}")
-    col2.metric("Median Earnings (25+)", f"${int(demo_row['Median annual earnings, 25+ '].values[0]):,}")
+    col2.metric("Median Earnings (25+)", f"${int(demo_row['Median annual earnings, 25+'].values[0]):,}")
     col3.metric("Median Age", demo_row["Median Age"].values[0])
 
 # --- Crime Overview ---
