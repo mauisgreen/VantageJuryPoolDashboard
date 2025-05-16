@@ -2,16 +2,18 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-# Load split CSV files
 @st.cache_data
 def load_data():
     crime_df = pd.read_csv("CrimeCounties.csv")
     demo_df = pd.read_csv("CountyDemographics.csv", skiprows=1)
+    demo_df.columns = demo_df.columns.str.strip()  # remove leading/trailing spaces
     demo_df = demo_df.rename(columns={demo_df.columns[0]: "County"})
     pol_df = pd.read_csv("CountyPolitics.csv")
     city_df = pd.read_csv("CityCrimeFinal.csv")
     citypol_df = pd.read_csv("CityPolitics.csv")
     return crime_df, demo_df, pol_df, city_df, citypol_df
+
+col2.metric("Median Earnings (25+)", f"${int(demo_row['Median annual earnings, 25+'].values[0]):,}")
 
 crime_df, demo_df, pol_df, city_df, citypol_df = load_data()
 
