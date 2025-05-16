@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import altair as alt
@@ -7,7 +6,7 @@ import altair as alt
 @st.cache_data
 def load_data():
     crime_df = pd.read_csv("CrimeCounties.csv")
-    demo_df = pd.read_csv("CountyDemographics.csv")
+    demo_df = pd.read_csv("CountyDemographics.csv", skiprows=1)
     demo_df = demo_df.rename(columns={demo_df.columns[0]: "County"})
     pol_df = pd.read_csv("CountyPolitics.csv")
     city_df = pd.read_csv("CityCrimeFinal.csv")
